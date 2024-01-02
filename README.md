@@ -2,7 +2,7 @@
 
 # Amazon Homepage Replication Project 🛒
 
-[<img src="https://www.shutterstock.com/image-vector/amazon-initial-logo-isolated-white-600nw-2272856739.jpg" width="50" height="50" style="border-radius: 10px;" target="_main">] (https://tejaspatil7903.github.io/AmazonClone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
+[<img src="https://www.shutterstock.com/image-vector/amazon-initial-logo-isolated-white-600nw-2272856739.jpg" width="50" height="50" style="border-radius: 10px;" target="_main">](https://tejaspatil7903.github.io/AmazonClone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
 
 # Overview
 Welcome to my project! Here, I took on the challenge of recreating the layout of Amazon.com's homepage using only HTML and CSS. This project marks my initial steps into the world of web design and development.
